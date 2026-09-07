@@ -1,8 +1,8 @@
 # Portfolio Personal - Itziar Urriola
 
 ### 🔗 Enlaces de despliegue
-* **Sitio en Vercel:** [https://pfo-1-portfolio-itziar-urriola.vercel.app](https://pfo-1-portfolio-itziar-urriola.vercel.app)
-* **Sitio en GitHub Pages:** [https://itz-u.github.io/PFO1-Portfolio-ItziarUrriola/](https://itz-u.github.io/PFO1-Portfolio-ItziarUrriola/)
+* **Sitio en Vercel:** [https://pfo-1-portfolio-itziar-urriola.vercel.app] (https://pfo-1-portfolio-itziar-urriola.vercel.app)
+* **Sitio en GitHub Pages:** [https://itz-u.github.io/PFO1-Portfolio-ItziarUrriola/] (https://itz-u.github.io/PFO1-Portfolio-ItziarUrriola/)
 
 Sitio web desarrollado como entrega para la Práctica Formativa Obligatoria 1 (PFO 1) de la carrera de Desarrollo de Software. El proyecto presenta mi perfil académico, habilidades técnicas, intereses personales y canales de contacto a través de una interfaz moderna, accesible y adaptable a diferentes dispositivos.
 
