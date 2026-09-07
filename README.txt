@@ -40,3 +40,5 @@ Durante el desarrollo de este proyecto se utilizó Gemini (a través del benefic
 - Desarrollo de los efectos de iluminación y transiciones hover en las tarjetas de habilidades y hobbies.
 - Revisión, corrección de estilo y pulido de los párrafos de texto.
 - Corrección, estructura y edición de este archivo README.
+
+- Link portfolio: pfo-1-portfolio-itziar-urriola.vercel.app
